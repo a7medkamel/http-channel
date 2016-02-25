@@ -1,0 +1,19 @@
+{
+  "name": "http-channel",
+  "version": "0.1.0",
+  "description": "HTTP channels used by BingAds JS modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingAds/http-channel.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingAds/http-channel/issues"
+  },
+  "homepage": "https://github.com/BingAds/http-channel#readme"
+}
